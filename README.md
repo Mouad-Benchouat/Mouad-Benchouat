@@ -12,17 +12,16 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bader-zirar-1313701b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/bdiro_zirar"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bdiro23">
-    <img src="https://badges.pufler.dev/visits/Bdiro23/Bdiro23?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Mouad-Benchouat">
+    <img src="https://badges.pufler.dev/visits/Mouad-Benchouat/Mouad-Benchouat?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Bdiro23?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Bdiro23?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Mouad-Benchouat?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Mouad-Benchouat?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Bdiro23"><img src="https://img.shields.io/github/followers/Bdiro23?style=social"></a>
+  <a href="https://github.com/Mouad-Benchouat"><img src="https://img.shields.io/github/followers/Mouad-Benchouat?style=social"></a>
 </p>
 
 <hr>
