@@ -90,3 +90,10 @@
 
 
 ![Commits Per Year](https://github-profile-summary-cards.vercel.app/api/cards/year-commits?username=Mouad-Benchouat&theme=github_dark)
+
+
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ton_pseudo_github&theme=dark)
+
