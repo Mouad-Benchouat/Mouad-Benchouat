@@ -2,7 +2,7 @@
  <img width="800" height="400" src="https://github.com/Mouad-Benchouat/Mouad-Benchouat/blob/master/social/yashs.gif">
 </p>
 
-![BADR](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MOUAD&fontSize=90)
+![MOUAD](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MOUAD&fontSize=90)
 
 
 <h1 align="center">Hi 👋, I'm Mouad Benchouat</h1>
