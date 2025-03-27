@@ -75,6 +75,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mouad-Benchouat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
 </div>
+
+
+
+### 📊 Statistiques GitHub  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mouad-Benchouat&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-Benchouat&layout=compact&theme=tokyonight" height="180" alt="top languages" />
+</div>
+
 
