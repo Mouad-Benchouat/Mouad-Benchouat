@@ -61,6 +61,10 @@
 </p>
 
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mouad-Benchouat&show_icons=true&locale=en&theme=radical">
+</p>
+
 <p align="center">💬 Ask me about **React**, or anything related to frontend development. Coding by day, sketching by night! 🎨</p>
 
 <p align="center">⚡ Fun fact: When I’m not debugging, you’ll probably find me drawing or exploring new tech fields.</p>
