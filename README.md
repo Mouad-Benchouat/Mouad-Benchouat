@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mouad Benchouat</h1>
-<h3 align="center">Aspiring Frontend Developer, currently a student and intern in Morocco</h3>
+<h3 align="center">Aspiring Software Engineer 🚀 | Code Enthusiast 💻 | Lifelong Learner 🔍</h3>
 
 <p align="center">👋 Hello! I am a software engineering student 💻 passionate about development and creating innovative solutions 🚀. I love learning 📚, experimenting 🧪, and taking on new challenges 💡 through various projects, whether academic 🎓 or personal 🌱. On this profile, you will find several projects that reflect my journey 🛤️, my curiosity 🔍, and my desire to continuously grow in the field of software development 🛠️.</p>
 
