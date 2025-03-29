@@ -427,6 +427,20 @@ _____________________________7
 
 
 ___________________________8
+## Tech Stack
+
+| 🖥️ Backend                             | 🎨 Frontend                          | 🗃️ Database         | 🚀 DevOps / Cloud           | 🤖 AI        | 🛠️ Outils           |
+|----------------------------------------|--------------------------------------|---------------------|----------------------------|--------------|---------------------|
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg) Postman |
+| ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C# | ![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) Tailwind | ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) SQL Server |                            | ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) NumPy | ![JUnit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg) JUnit |
+| ![ASP.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg) ASP.NET Core | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) Bootstrap | ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) SQL Server |                            | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) Pandas | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git |
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) PHP | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL |                            | ![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg) Matplotlib | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub |
+| ![Symfony](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg) Symfony | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML | ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) SQL Server |                            | ![Seaborn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg) Seaborn |                       |
+| ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript |                                      |                     |                            | ![Keras](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg) Keras |                       |
+
+
+
+__________________________9
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
