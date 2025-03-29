@@ -61,6 +61,84 @@ __________________________________
 
 
 ________________________________
+<!-- Niveau Ultime - Tech Stack avec effet premium -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<style>
+.tech-stack {
+  border-collapse: collapse;
+  margin: 20px auto;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+.tech-stack th, .tech-stack td {
+  padding: 15px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+}
+.tech-stack th {
+  background: rgba(255, 255, 255, 0.2);
+  font-size: 18px;
+  color: #4fc3f7;
+}
+.tech-stack td {
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-right: none;
+  border-left: none;
+}
+.tech-stack td:hover {
+  transform: scale(1.1);
+  background: rgba(79, 195, 247, 0.15);
+  border-radius: 10px;
+}
+.tech-stack img {
+  width: 40px;
+  margin-bottom: 8px;
+}
+</style>
+
+<table class="tech-stack">
+  <tr>
+    <th>⚡ Core</th>
+    <th>🌐 Backend</th>
+    <th>🎨 Frontend</th>
+    <th>🗄️ Database</th>
+    <th>☁️ DevOps</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>Python</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"><br>Flask</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>React</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>MySQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><br>Docker</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"><br>TypeScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"><br>FastAPI</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"><br>Tailwind</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><br>MongoDB</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"><br>AWS</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><br>C++</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><br>Node.js</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"><br>Bootstrap</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><br>PostgreSQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"><br>GCP</td>
+  </tr>
+</table>
+
+
+
+
+
+
+___________________________________2
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
