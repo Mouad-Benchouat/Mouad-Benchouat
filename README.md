@@ -104,11 +104,16 @@
 
 
 
+<p align="center">
+  ✨ Turning ideas into digital reality.<br>
+  🌱 Always curious, always growing.<br>
+  🎯 Crafting not just code, but meaningful experiences.<br>
+  🚀 From imagination to implementation, step by step.<br>
+</p>
 
-<p align="center">💬 Ask me about **React**, or anything related to frontend development. Coding by day, sketching by night! 🎨</p>
-
-<p align="center">⚡ Fun fact: When I’m not debugging, you’ll probably find me drawing or exploring new tech fields.</p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Dreamer+%7C+Builder+%7C+Explorer;Coding+the+unexpected.;Inventing+the+next+big+thing..." alt="Typing SVG" />
+</p>
 
 
 
