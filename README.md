@@ -350,6 +350,8 @@ __________________________9
 
 ## 🛠️ Tech Stack
 
+
+
 <table align="center">
 <thead>
 <tr>
@@ -364,7 +366,7 @@ __________________________9
 <tbody align="center">
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"><br>Java</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"><br>React</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"><br>HTML</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"><br>MySQL</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"><br>Docker</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"><br>Python</td>
@@ -372,7 +374,7 @@ __________________________9
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"><br>C#</td>
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"><br>CSS</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"><br>SQL Server</td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"><br>NumPy</td>
@@ -380,7 +382,7 @@ __________________________9
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" width="40" height="40"><br>ASP.NET Core</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"><br>Bootstrap</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"><br>JavaScript</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"><br>SQL Server</td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"><br>Pandas</td>
@@ -388,16 +390,16 @@ __________________________9
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"><br>PHP</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"><br>JavaScript</td>
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"><br>TypeScript</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"><br>MySQL</td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"><br>Matplotlib</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"><br>GitHub</td>
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"><br>Symfony</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"><br>HTML</td>
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"><br>React</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"><br>SQL Server</td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"><br>Seaborn</td>
 <td></td>
@@ -407,7 +409,7 @@ __________________________9
 <td></td>
 <td></td>
 <td></td>
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"><br>Keras</td>
 <td></td>
 </tr>
 </tbody>
