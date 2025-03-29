@@ -114,6 +114,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Dreamer+%7C+Builder+%7C+Explorer;Coding+the+unexpected.;Inventing+the+next+big+thing..." alt="Typing SVG" />
 </p>
+****************
+<p align="center">
+  🏗️ Shaping the digital future, one line of code at a time.<br>
+  ✨ Designing, building and refining every detail.<br>
+  🌍 Exploring endless possibilities beyond the screen.<br>
+  🚀 From ideas to impactful realities — that's the mission.<br>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineer+in+the+making...;Architect+of+tomorrow's+digital+world.;Building+more+than+code%2C+building+dreams..." alt="Typing SVG" />
+</p>
 
 
 
