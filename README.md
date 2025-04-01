@@ -59,7 +59,7 @@
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"><br>JUnit</td>
 </tr>
 <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" width="40" height="40"><br>ASP.NET Core</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original-wordmark.svg" width="40" height="40"><br>ASP.NET Core</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"><br>JavaScript</td>
 <td></td>
 <td></td>
@@ -107,7 +107,7 @@
 <td></td>
 </tr>
 <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="40" height="40"><br>Spring Boot</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original-wordmark.svg" width="40" height="40"><br>Spring Boot</td>
 <td></td>
 <td></td>
 <td></td>
@@ -116,7 +116,6 @@
 </tr>
 </tbody>
 </table>
-
 
 
 <p align="center">
