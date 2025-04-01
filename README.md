@@ -30,8 +30,6 @@
 
 ## 🛠️ Tech Stack
 
-
-
 <table align="center">
 <thead>
 <tr>
@@ -63,7 +61,7 @@
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" width="40" height="40"><br>ASP.NET Core</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"><br>JavaScript</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"><br>SQL Server</td>
+<td></td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"><br>Pandas</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br>Git</td>
@@ -71,7 +69,7 @@
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"><br>PHP</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"><br>TypeScript</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"><br>MySQL</td>
+<td></td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"><br>Matplotlib</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"><br>GitHub</td>
@@ -79,7 +77,7 @@
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"><br>Symfony</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"><br>React</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"><br>SQL Server</td>
+<td></td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"><br>Seaborn</td>
 <td></td>
@@ -92,10 +90,32 @@
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"><br>Keras</td>
 <td></td>
 </tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"><br>Jakarta EE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"><br>Spring</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="40" height="40"><br>Spring Boot</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
-
-</p>
 
 
 
