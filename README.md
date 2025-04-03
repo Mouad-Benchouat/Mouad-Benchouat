@@ -28,8 +28,6 @@
 
 <p align="center">
 
-## 🛠️ Tech Stack
-
 <table align="center">
 <thead>
 <tr>
@@ -48,7 +46,7 @@
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"><br>MySQL</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"><br>Docker</td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"><br>Python</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"><br>Postman</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br>Git</td>
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"><br>C#</td>
@@ -56,7 +54,7 @@
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"><br>SQL Server</td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"><br>NumPy</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"><br>JUnit</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"><br>GitHub</td>
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original-wordmark.svg" width="40" height="40"><br>ASP.NET Core</td>
@@ -64,7 +62,7 @@
 <td></td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"><br>Pandas</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br>Git</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"><br>Postman</td>
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"><br>PHP</td>
@@ -72,7 +70,7 @@
 <td></td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"><br>Matplotlib</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"><br>GitHub</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"><br>JUnit</td>
 </tr>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"><br>Symfony</td>
@@ -115,33 +113,6 @@
 <td></td>
 </tr>
 </tbody>
-</table>
-
-<h3>🛠️ Outils de développement</h3>
-<table align="center">
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br>Git</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"><br>GitHub</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"><br>Postman</td>
-</tr>
-</table>
-
-<h3>🛠️ Outils de tests</h3>
-<table align="center">
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"><br>JUnit</td>
-</tr>
-</table>
-
-<h3>🤖 Outils AI</h3>
-<table align="center">
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"><br>NumPy</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"><br>Pandas</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"><br>Matplotlib</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"><br>Seaborn</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"><br>Keras</td>
-</tr>
 </table>
 
 
