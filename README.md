@@ -117,6 +117,33 @@
 </tbody>
 </table>
 
+<h3>🛠️ Outils de développement</h3>
+<table align="center">
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br>Git</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"><br>GitHub</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"><br>Postman</td>
+</tr>
+</table>
+
+<h3>🛠️ Outils de tests</h3>
+<table align="center">
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"><br>JUnit</td>
+</tr>
+</table>
+
+<h3>🤖 Outils AI</h3>
+<table align="center">
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"><br>NumPy</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"><br>Pandas</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"><br>Matplotlib</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"><br>Seaborn</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"><br>Keras</td>
+</tr>
+</table>
+
 
 <p align="center">
   🏗️ Shaping the digital future, one line of code at a time.<br>
