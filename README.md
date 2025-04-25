@@ -18,9 +18,7 @@
   <a href="https://github.com/Mouad-Benchouat">
     <img src="https://badges.pufler.dev/visits/Mouad-Benchouat/Mouad-Benchouat?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Mouad-Benchouat?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Mouad-Benchouat?style=flat-square&color=black&logo=github">
-  </a>
+
   <a href="https://github.com/Mouad-Benchouat"><img src="https://img.shields.io/github/followers/Mouad-Benchouat?style=social"></a>
 </p>
 
