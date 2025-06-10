@@ -14,12 +14,7 @@
 <a href="https://www.linkedin.com/in/mouad-benchouat-727087314/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mouad-Benchouat">
-    <img src="https://badges.pufler.dev/visits/Mouad-Benchouat/Mouad-Benchouat?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Mouad-Benchouat"><img src="https://img.shields.io/github/followers/Mouad-Benchouat?style=social"></a>
-</p>
+
 
 <hr>
 
