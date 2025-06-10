@@ -11,7 +11,7 @@
 <p align="center">👋 Hello! I am a software engineering student 💻 passionate about development and creating innovative solutions 🚀. I love learning 📚, experimenting 🧪, and taking on new challenges 💡 through various projects, whether academic 🎓 or personal 🌱. On this profile, you will find several projects that reflect my journey 🛤️, my curiosity 🔍, and my desire to continuously grow in the field of software development 🛠️.</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mouad-benchouat-727087314/"></a> 
+<a href="https://www.linkedin.com/in/mouad-benchouat-727087314/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 
 <p align="center">
