@@ -20,92 +20,62 @@
 
 <p align="center">
 
-<table align="center">
-<thead>
-<tr>
-<th>🖥️ Backend</th>
-<th>🎨 Frontend</th>
-<th>🗃️ Database</th>
-<th>🚀 DevOps / Cloud</th>
-<th>🤖 AI</th>
-<th>🛠️ Outils</th>
-</tr>
-</thead>
-<tbody align="center">
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"><br>Java</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"><br>HTML</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"><br>MySQL</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"><br>Docker</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"><br>Python</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br>Git</td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"><br>C#</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"><br>CSS</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"><br>SQL Server</td>
-<td></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"><br>NumPy</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"><br>GitHub</td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original-wordmark.svg" width="40" height="40"><br>ASP.NET Core</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"><br>JavaScript</td>
-<td></td>
-<td></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"><br>Pandas</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"><br>Postman</td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"><br>PHP</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"><br>TypeScript</td>
-<td></td>
-<td></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"><br>Matplotlib</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"><br>JUnit</td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"><br>Symfony</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"><br>React</td>
-<td></td>
-<td></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"><br>Seaborn</td>
-<td></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"><br>TypeScript</td>
-<td></td>
-<td></td>
-<td></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"><br>Keras</td>
-<td></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"><br>Jakarta EE</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"><br>Spring</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original-wordmark.svg" width="40" height="40"><br>Spring Boot</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hey+👋,+I'm+Mouad+;Full-Stack+Engineer;AI+%26+Cloud+Enthusiast;Welcome+to+my+GitHub!" />
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,framer" />
+</p>
+
+### ⚙ **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,nestjs,graphql" />
+</p>
+
+### 🛢 **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+</p>
+
+### 🤖 **AI & Data**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LangChain-2B5D8C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FEBA2D?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### ☁ **DevOps & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions" />
+</p>
+
+### 🛠 **Outils**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,git,github" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MouadB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouadB&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌟 Fun Fact
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
 <p align="center">
