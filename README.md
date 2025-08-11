@@ -27,23 +27,43 @@
 
 ---
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hey+👋,+I'm+Mouad+;Full-Stack+Engineer;AI+%26+Cloud+Enthusiast;Welcome+to+my+GitHub!" />
+</p>
+
+---
+
 ## 🚀 Tech Stack
+
+---
 
 ### 🌐 **Frontend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,framer" />
 </p>
 
+---
+
 ### ⚙ **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,nestjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,symfony" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JakartaEE-E76F00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
+
+---
 
 ### 🛢 **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
+
+---
 
 ### 🤖 **AI & Data**
 <p align="left">
@@ -52,15 +72,19 @@
   <img src="https://img.shields.io/badge/HuggingFace-FEBA2D?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
+---
+
 ### ☁ **DevOps & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,aws,azure" />
 </p>
 
-### 🛠 **Outils**
+---
+
+### 🛠 **Outils & Tests**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,git,github" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://img.shields.io/badge/JUnit4-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
@@ -77,7 +101,8 @@
 ## 🌟 Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-
+<p align="left">
+ 
 <p align="center">
   🏗️ Shaping the digital future, one line of code at a time.<br>
   ✨ Designing, building and refining every detail.<br>
