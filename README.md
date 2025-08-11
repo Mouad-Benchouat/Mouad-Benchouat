@@ -21,15 +21,11 @@
 <p align="center">
 
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hey+👋,+I'm+Mouad+;Full-Stack+Engineer;AI+%26+Cloud+Enthusiast;Welcome+to+my+GitHub!" />
-</p>
+
 
 ## 🚀 Tech Stack
 
 ### 🌐 **Frontend**
-*(à remplir plus tard)*
 
 ### ⚙ **Backend**
 <p align="left">
@@ -67,7 +63,9 @@
 </p>
 
 
+<hr>
 
+<p align="center">
 
 <p align="left">
  
