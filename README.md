@@ -25,6 +25,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hey+👋,+I'm+Mouad+;Full-Stack+Engineer;AI+%26+Cloud+Enthusiast;Welcome+to+my+GitHub!" />
 </p>
 
+
 ---
 
 <!-- Banner -->
@@ -32,63 +33,57 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hey+👋,+I'm+Mouad+;Full-Stack+Engineer;AI+%26+Cloud+Enthusiast;Welcome+to+my+GitHub!" />
 </p>
 
----
-
 ## 🚀 Tech Stack
 
----
-
 ### 🌐 **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,framer" />
-</p>
-
----
+*(à remplir plus tard)*
 
 ### ⚙ **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,symfony" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JakartaEE-E76F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jakarta%20EE-E76F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
 </p>
-
----
 
 ### 🛢 **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
 
----
-
 ### 🤖 **AI & Data**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-2B5D8C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FEBA2D?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
----
-
 ### ☁ **DevOps & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,aws,azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
-
----
 
 ### 🛠 **Outils & Tests**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit4-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -96,10 +91,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouadB&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
 ## 🌟 Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 
 <p align="left">
  
